@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/iprd-org/iprd/refs/heads/main/streams/tr/tr.m3u
 https://streams.uzunmuhalefet.com/lists/tr.m3u
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/refs/heads/main/%2Bmerged%2B/t/tr.m3u
 https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/refs/heads/main/%2Bmerged%2B/t/turk.m3u
