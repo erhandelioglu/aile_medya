@@ -1,4 +1,5 @@
 [
+  {"tr": "Türkiye", "en": "Turkey", "code": "tr", "cont_tr": "Avrupa / Asya", "cont_en": "Europe / Asia", "cont_code": "EU/AS", "flag": "https://flagcdn.com", "capital": "Ankara", "phone": "90", "currency": "TRY", "tz": "UTC+3"},
   {"tr": "Afganistan", "en": "Afghanistan", "code": "af", "cont_tr": "Asya", "cont_en": "Asia", "cont_code": "AS", "flag": "https://flagcdn.com", "capital": "Kabil", "phone": "93", "currency": "AFN", "tz": "UTC+4:30"},
   {"tr": "Almanya", "en": "Germany", "code": "de", "cont_tr": "Avrupa", "cont_en": "Europe", "cont_code": "EU", "flag": "https://flagcdn.com", "capital": "Berlin", "phone": "49", "currency": "EUR", "tz": "UTC+1"},
   {"tr": "Amerika Birleşik Devletleri", "en": "United States", "code": "us", "cont_tr": "Kuzey Amerika", "cont_en": "North America", "cont_code": "NA", "flag": "https://flagcdn.com", "capital": "Washington, D.C.", "phone": "1", "currency": "USD", "tz": "UTC-5"},
@@ -177,7 +178,6 @@
   {"tr": "Trinidad ve Tobago", "en": "Trinidad and Tobago", "code": "tt", "cont_tr": "Kuzey Amerika", "cont_en": "North America", "cont_code": "NA", "flag": "https://flagcdn.com", "capital": "Port of Spain", "phone": "1-868", "currency": "TTD", "tz": "UTC-4"},
   {"tr": "Tunus", "en": "Tunisia", "code": "tn", "cont_tr": "Afrika", "cont_en": "Africa", "cont_code": "AF", "flag": "https://flagcdn.com", "capital": "Tunus", "phone": "216", "currency": "TND", "tz": "UTC+1"},
   {"tr": "Tuvalu", "en": "Tuvalu", "code": "tv", "cont_tr": "Okyanusya", "cont_en": "Oceania", "cont_code": "OC", "flag": "https://flagcdn.com", "capital": "Funafuti", "phone": "688", "currency": "AUD", "tz": "UTC+12"},
-  {"tr": "Türkiye", "en": "Turkey", "code": "tr", "cont_tr": "Avrupa / Asya", "cont_en": "Europe / Asia", "cont_code": "EU/AS", "flag": "https://flagcdn.com", "capital": "Ankara", "phone": "90", "currency": "TRY", "tz": "UTC+3"},
   {"tr": "Türkmenistan", "en": "Turkmenistan", "code": "tm", "cont_tr": "Asya", "cont_en": "Asia", "cont_code": "AS", "flag": "https://flagcdn.com", "capital": "Aşkabat", "phone": "993", "currency": "TMT", "tz": "UTC+5"},
   {"tr": "Uganda", "en": "Uganda", "code": "ug", "cont_tr": "Afrika", "cont_en": "Africa", "cont_code": "AF", "flag": "https://flagcdn.com", "capital": "Kampala", "phone": "256", "currency": "UGX", "tz": "UTC+3"},
   {"tr": "Ukrayna", "en": "Ukraine", "code": "ua", "cont_tr": "Avrupa", "cont_en": "Europe", "cont_code": "EU", "flag": "https://flagcdn.com", "capital": "Kiev", "phone": "380", "currency": "UAH", "tz": "UTC+2"},
